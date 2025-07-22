@@ -1,0 +1,7 @@
+Sprint Backlog
+
+Processo de alteração em codigo da Sprint de GIT
+
+Historias
+H1 alteração de cor em testos no Index
+H2 Readequação da linguagem utilizada no contato
