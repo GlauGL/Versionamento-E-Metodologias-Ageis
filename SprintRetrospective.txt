@@ -1,0 +1,16 @@
+Sprint Retrospective
+
+O que funcionou bem:
+O processo de alteração dos campos e cores funcionaram corretamente.
+O processo de criação de Branches funcionou corretamente.
+A orientação do que precisava ser feito foi elaborado de forma satisfatoria e clara.
+A ultima aula foi muito esclarecedora, ajudou a elucidar as duvidas.
+
+O que não funcionou bem:
+Tentar realizar o processo antes de verificar as ligaçoes do VS code com o GitHub.
+Algums processos de push e pull, no computador do Senai, estavam apresentando erro por conta do local da pasta no disco.
+
+
+Sugestões de melhoria:
+A utilização do metodo Scrum em si foi dirimida pro conta da não colaboração nas atividades, sugiro criar algum processo em grupo. 
+Acrescentar orientaçoes quanto ao armazenamento das pastas do VsCode.
